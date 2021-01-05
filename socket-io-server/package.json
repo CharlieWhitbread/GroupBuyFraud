@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bad-words": "^3.0.3",
     "brain.js": "^2.0.0-alpha.12",
     "express": "^4.16.4",
